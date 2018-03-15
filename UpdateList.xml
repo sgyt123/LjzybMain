@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<AutoUpdater>
+	<Description>Main autoUpdate</Description>
+	<Updater>
+		<Url>http://10.0.2.15/DownLoad</Url>
+		<LastUpdateTime>2017-09-09</LastUpdateTime>
+	</Updater>
+	<Application applicationId = "Main">
+		<EntryPoint>Main.exe</EntryPoint>
+		<Location>.</Location>
+		<Version>1.0.0.0</Version>
+	</Application>
+	<Files>
+		<File Ver="1.0.0.0" Name= "TextUnderLine.dll" />
+		<File Ver="1.0.0.0" Name= "MySqlHelperDAL.dll" />
+		<File Ver="1.0.0.0" Name= "MyControls.dll" />
+		<File Ver="1.0.0.0" Name= "Model.dll" />
+		<File Ver="1.0.0.0" Name= "InformationManager.dll" />
+		<File Ver="1.0.0.0" Name= "InformationDAL.dll" />
+		<File Ver="1.0.0.0" Name= "EditButtonControl.dll" />
+		<File Ver="1.0.0.0" Name= "ControlExs.dll" />
+		<File Ver="1.0.0.0" Name= "ConfigManager.dll" />
+		<File Ver="1.0.0.0" Name= "CheckBoxComboBox.dll" />
+		<File Ver="1.0.0.0" Name= "Main.exe" />
+		<File Ver="1.0.0.0" Name= "CSkin.xml" />
+		<File Ver="1.0.0.0" Name= "Config.xml" />
+		<File Ver="1.0.0.0" Name= "CSkin.dll" />
+	</Files>
+</AutoUpdater>

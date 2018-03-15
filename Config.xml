@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configure>
+  <MySQL>
+    <DBIp value="127.0.0.1" />
+    <DBName value="ljzyb_db" />
+  </MySQL>
+  <Config>
+    <User value="guanmq" />
+    <PassWord value="5bDKbYmwggk=" />
+    <AutoSave value="1" />
+  </Config>
+</Configure>
